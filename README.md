@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## HELLO BAI 👋<br>
--------------------------------------
+
 📖BSIT Student at PUP Sto. Tomas<br>
 🎯Aiming to be a Web Developer<br>
 📜Small progress over no progress<br>
