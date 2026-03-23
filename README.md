@@ -22,8 +22,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EduCode597&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EduCode597&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=EduCode597&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
