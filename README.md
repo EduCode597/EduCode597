@@ -9,7 +9,7 @@
 ### Currently
 - 🌱 Learning: **React, Node.js, TailwindCSS**
 - 🛠️ Building: *(add what you’re building right now — even a small project)*  
-- 🤝 Open to: **collaborations / internships / freelance (pick what fits)**
+- 🤝 Open to: **collaborations/internships / freelance (pick what fits)**
 
 ---
 
@@ -38,7 +38,7 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=EduCode597&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduCode597&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ---
 ## 🏅 Certifications
