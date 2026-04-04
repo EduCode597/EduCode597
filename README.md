@@ -38,8 +38,11 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduCode597&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<img src="https://komarev.com/ghpvc/?username=EduCode597&label=Profile%20views&color=0e75b6&style=flat" alt="EduCode597" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EduCode597&" alt="EduCode597" />
 
 ---
+
 ## 🏅 Certifications
 [![Cisco Badge](https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/5bbc424b-159d-442d-ba9b-de204c4ed8e0)
