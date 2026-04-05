@@ -7,9 +7,8 @@
 - 📜 *Small progress over no progress*
 
 ### Currently
-- 🌱 Learning: **React, Node.js, TailwindCSS**
-- 🛠️ Building: *(add what you’re building right now — even a small project)*  
-- 🤝 Open to: **collaborations/internships / freelance (pick what fits)**
+- 🌱 Learning: **React, Node.js, TailwindCSS**  
+- 🤝 Open to: **collaborations/internships/freelance**
 
 ---
 
