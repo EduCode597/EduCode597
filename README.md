@@ -4,13 +4,13 @@
 
 ## Hello bai 👋
 
-- 📖 BSIT Student at **PUP Sto. Tomas**
-- 🎯 Aspiring **Web Developer**
-- 📜 *Small progress over no progress*
+📖 BSIT Student at **PUP Sto. Tomas**
+🎯 Aspiring **Web Developer**
+📜 *Small progress over no progress*
 
 ### Currently
-- 🌱 Learning: **React, Node.js, TailwindCSS**  
-- 🤝 Open to: **collaborations/internships/freelance**
+🌱 Learning: **React, Node.js, TailwindCSS**  
+🤝 Open to: **collaborations/internships/freelance**
 
 ---
 
