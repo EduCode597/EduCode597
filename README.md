@@ -39,8 +39,6 @@
 ---
 
 ## 📊 GitHub Stats
-<img src="https://komarev.com/ghpvc/?username=EduCode597&label=Profile%20views&color=0e75b6&style=flat" alt="EduCode597" />
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EduCode597&" alt="EduCode597" />
 
 ---
