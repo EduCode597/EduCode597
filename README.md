@@ -31,8 +31,21 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EduCode597&theme=dark&timezone=UTC%2B8)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=EduCode597&theme=dark&timezone=UTC%2B8" alt="GitHub Streak" />
+  </a>
+</div>
 
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=EduCode597&show_icons=true&theme=calm&count_private=true&cache_seconds=86400)
+<br>
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=EduCode597&layout=compact&theme=calm&cache_seconds=86400)
+<table align="center">
+  <tr>
+    <td valign="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=EduCode597&show_icons=true&theme=calm&count_private=true&cache_seconds=86400" alt="GitHub stats" />
+    </td>
+    <td valign="center">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EduCode597&theme=calm&cache_seconds=86400" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
