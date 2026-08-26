@@ -28,3 +28,11 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AMXQootFK/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/duard.gg)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=EduCode597&theme=dark&timezone=UTC%2B8)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=EduCode597&show_icons=true&theme=calm&count_private=true&cache_seconds=86400)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=EduCode597&layout=compact&theme=calm&cache_seconds=86400)
