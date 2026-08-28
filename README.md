@@ -32,9 +32,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=EduCode597&theme=dark&timezone=UTC%2B8" alt="GitHub Streak" />
-  </a>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=EduCode597&theme=dark" />
 </div>
 
 <br>
