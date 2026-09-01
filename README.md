@@ -30,11 +30,6 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madriagajohneduard@gmail.com)
 
 ## 📊 GitHub Stats
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EduCode597&theme=vue-dark" alt="GitHub Streak" /></a>
-</div>
-
 <br>
 
 <table align="center">
